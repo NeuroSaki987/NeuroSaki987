@@ -1,5 +1,5 @@
-# StarRailHub / 三月七CTF战队
-
+# StarRailHub 
+## 猫娘聚集地
 
 *   Web
 *   Reverse
@@ -9,11 +9,10 @@
 *   BlockChain
 *   Prompt Injection Attack（PIA）
 
-
 ---
 
 ## Contact Us / 联系我们
-
+主人不要炸我喵~
 - **Email 邮箱:** [ctf@liuyingweb.cn](mailto:ctf@liuyingweb.cn)
 - **Bilibili 哔哩哔哩:** [Our Bilibili Space](https://space.bilibili.com/3493280457165617)
 - **GitHub:** [March 7th CTF Team](https://github.com/StarRailHub) 
@@ -23,3 +22,5 @@
 > *"To chase our dreams that we’ve declared"*
 >
 > *"奔赴心之所向的远方"*
+>
+> 喵呜~主人想怎么玩都可以哦~不过太粗暴的话...会发出奇怪的声音呢...
