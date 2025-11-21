@@ -19,9 +19,10 @@
 ---
 
 ## Contact Me / 联系我
-> 友好的**聊天划水**和技术交流都是可以的喵～，不过还是喜欢有人给我聊天的
-> 重要事情可以发邮件，但是不要轰炸，邮件服务器是Tencent的
-> X/Twitter 同类可以互fo哦～ 尽管是新号一枚
+> - 友好的**聊天划水**和技术交流都是可以的喵～
+> - 不过还是希望有人能和我聊天的
+> - 重要事情可以发邮件，但是不要轰炸，邮件服务器是Tencent的
+> - X/Twitter 同类可以互fo哦～ 尽管是新号一枚
 
 - **Web** [我的blog](http://neurosaki.blog._service.root-servers.org.cn)
 - **Email** [邮箱](mailto:ctf@liuyingweb.cn)
