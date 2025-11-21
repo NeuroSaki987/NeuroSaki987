@@ -1,4 +1,4 @@
-# Neuro Saki 🍥
+# Neuro Saki 
 
 ## 关于我 /About Me
 - 2008年出生的喵哦～
@@ -26,7 +26,6 @@
 
 - **Web** [我的blog](http://neurosaki.blog._service.root-servers.org.cn)
 - **Email** [邮箱](mailto:ctf@liuyingweb.cn)
-- **Telegram** [@NeuroSaki987](https://t.me/NeuroSaki987)
 - **Discord** neurosaki987
 ---
 
