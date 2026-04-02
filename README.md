@@ -2,31 +2,22 @@
 
 ## 关于我 /About Me
 - 2008年出生的喵哦～
-- 重度抑郁障碍，舍曲林猫一只
-- 非od/自杀向
+- 重度抑郁障碍
 - 玩原神/星铁/蔚蓝档案/Phigros
 - ？
 
 ## 我的技术方向
-*   ACM
-*   Web
-*   Reverse
-*   Crypto
-*   Forensics
-*   Pwn
-*   BlockChain
-*   Prompt Injection Attack（PIA）
+*   独立开发
+*   Windows内核研究
+*   AI架构研究
+*   部分网络与数据安全方向
 ---
 
-<p><img width="450" height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NeuroSaki987&layout=compact&theme=vue-dark" /> <img width="450" height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=NeuroSaki987&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark" /></p>
+<p><img width="450" height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NeuroSaki987&layout=compact&theme=vue-dark" /> <img width="450" height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=NeuroSaki987&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark" /></p>
 ## Contact Me / 联系我
-> - 友好的**聊天划水**和技术交流都是可以的喵～
-> - 不过还是希望有人能和我聊天的
-> - 重要事情可以发邮件，但是不要轰炸，邮件服务器是Tencent的
-> - X/Twitter 同类可以互fo哦～ 尽管是新号一枚
 
-- **Web** [我的blog](http://neurosaki.blog._service.root-servers.org.cn)
-- **Email** [邮箱](mailto:ctf@liuyingweb.cn)
+- **Web** [我的blog（已失效）](http://neurosaki.blog._service.root-servers.org.cn)
+- **Email** [邮箱](mailto:neurosaki987@liuyingweb.cn)
 - **Discord** neurosaki987
 ---
 
