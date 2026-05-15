@@ -1,15 +1,9 @@
 # Neuro Saki 
 
 ## 关于我 /About Me
-- 2008年出生的喵哦～
-
+- ？？？
 - ？
-
-## 我的方向
-*   独立开发
-*   Windows内核研究
-*   AI架构研究
-*   
+- ？？？？？？？？
 ---
 
 <p><img width="450" height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NeuroSaki987&layout=compact&theme=vue-dark" /> <img width="450" height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=NeuroSaki987&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark" /></p>
