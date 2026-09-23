@@ -20,12 +20,6 @@
 
 <br/>
 
-<img height="150" src="https://github-profile-trophy.vercel.app/?username=NeuroSaki987&theme=onedark&no-frame=true&row=1&column=6&margin-w=6" />
-
-<br/>
-
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NeuroSaki987&theme=github_dark" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NeuroSaki987&theme=github_dark&utcOffset=8" />
 
 ---
 
