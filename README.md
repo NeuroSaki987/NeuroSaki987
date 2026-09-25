@@ -12,7 +12,7 @@
 
 
 <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=NeuroSaki987&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&hide_border=true" />
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NeuroSaki987&layout=compact&langs_count=8&theme=vue-dark&hide_border=true" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NeuroSaki987&layout=compact&langs_count=8&theme=vue-dark&hide_border=true&hide=html,css,typescript,javascript,batchfile,shell" />
 
 <br/>
 
