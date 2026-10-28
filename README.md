@@ -7,6 +7,7 @@
 
 
 <img height="165" src="https://github-readme-stats-extended.vercel.app/api/?username=NeuroSaki987&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&hide_border=true" />
+[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/neurosaki987?theme=dark&lang=zh)](https://ghfind.com/u/neurosaki987?ref=badge)
 <img height="165" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=NeuroSaki987&layout=compact&langs_count=8&theme=vue-dark&hide_border=true&hide=html,css,typescript,javascript" />
 <br/>
 
