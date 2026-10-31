@@ -1,8 +1,6 @@
 
 
 # Neuro Saki
-
-想要主人喵～ Nya～
 ---
 
 
